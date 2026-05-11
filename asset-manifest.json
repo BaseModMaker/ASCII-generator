@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ASCII-generator/static/css/main.3158fd75.css",
+    "main.js": "/ASCII-generator/static/js/main.f01e9b73.js",
+    "static/js/453.b2c65378.chunk.js": "/ASCII-generator/static/js/453.b2c65378.chunk.js",
+    "index.html": "/ASCII-generator/index.html",
+    "main.3158fd75.css.map": "/ASCII-generator/static/css/main.3158fd75.css.map",
+    "main.f01e9b73.js.map": "/ASCII-generator/static/js/main.f01e9b73.js.map",
+    "453.b2c65378.chunk.js.map": "/ASCII-generator/static/js/453.b2c65378.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3158fd75.css",
+    "static/js/main.f01e9b73.js"
+  ]
+}
