@@ -1,5 +1,5 @@
 {
-  "homepage": "https://BaseModMaker.github.io/React-Pages-Template",
+  "homepage": "https://BaseModMaker.github.io/ASCII-generator",
   "name": "web",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +13,8 @@
     "react-dom": "^19.1.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
+    ,
+    "figlet": "^1.5.2"
   },
   "scripts": {
     "predeploy": "npm run build",
